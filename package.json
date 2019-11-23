@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/azawakh/experiment_for_renovate",
   "author": "azawakh <azawakhh@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "2.1.0"
+  }
 }
