@@ -328,10 +328,10 @@ esutils@^2.0.2:
   resolved "https://registry.yarnpkg.com/esutils/-/esutils-2.0.3.tgz#74d2eb4de0b8da1293711910d50775b9b710ef64"
   integrity sha512-kVscqXk4OCp68SZ0dkgEKVi6/8ij300KBWTJq32P/dYeWTSwK41WyTxalN1eRmA5Z9UU/LX9D7FWSmV9SAYx6g==
 
-experimental_package@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/experimental_package/-/experimental_package-2.0.0.tgz#be9534d3e4857a516220e21d4606982520878e79"
-  integrity sha512-RBzMgnBRknT6LES+3vDeKAwwu1P0COKdFNJQOxi3NiFWUJxp88U/o+nt38DBk+hU0svN87rFdTpW+SqOnwX0VA==
+experimental_package@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/experimental_package/-/experimental_package-3.0.0.tgz#14fc5bd5e42923a2809b5ce5fafb1e3285b231f9"
+  integrity sha512-1iSR9HsljMkkOMnHU3+4pLwgznrx7WPIDHHYujOvuq33PMAOxXO3BbkavukIayF2wV3N+/bMz3t+Ml43wY6gpQ==
   dependencies:
     twsh "^1.0.2"
 
