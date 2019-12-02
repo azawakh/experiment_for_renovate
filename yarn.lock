@@ -329,9 +329,9 @@ esutils@^2.0.2:
   integrity sha512-kVscqXk4OCp68SZ0dkgEKVi6/8ij300KBWTJq32P/dYeWTSwK41WyTxalN1eRmA5Z9UU/LX9D7FWSmV9SAYx6g==
 
 experimental_package@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/experimental_package/-/experimental_package-3.0.1.tgz#5ff29e2ec89ae5525bcb2d41f6151bcf7a468853"
-  integrity sha512-MHKdhkbgSxNBUAU2+CriXNL9LOelG39vwasXIep8FXIEybyo+Mm/xyGa485KsuggalGrut28e3PKQV7FoYDzcQ==
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/experimental_package/-/experimental_package-3.0.2.tgz#dc2ef5c86085b69fdae1b82ce7d3800cc2c322c0"
+  integrity sha512-Va7nMg2stvYsXR1SDpxn3LkwOFLb2TLnte6l1FLkJltGkuleXiVOS0zfJ2PdsCD6Y9hn2psNScUoQKZ01yM4gg==
   dependencies:
     twsh "^1.0.2"
 
