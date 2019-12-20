@@ -6,7 +6,7 @@
   "author": "azawakh <azawakhh@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "eslint": "4.19.1",
+    "eslint": "6.8.0",
     "experimental_package": "^3.0.1"
   }
 }
